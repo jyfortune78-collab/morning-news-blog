@@ -1,0 +1,5 @@
+git init -b main
+git add .
+git commit -m "init"
+git remote add origin https://github.com/jyfortune78-collab/morning-news-blog.git
+git push -u origin main
